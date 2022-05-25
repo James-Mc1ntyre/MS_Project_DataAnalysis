@@ -4,5 +4,5 @@
 <div> Data analysis for both fNIRS and EEG recorded from a virtual reality visuo-spatial memory paradigm. </div> 
 
 <h2 align="center" > Usage </h2>
-<div> The data and figures are all saved in the Data folder under each participants name and session date. Only two participants are included here. </div> 
+<div> The data and figures are all saved in the Data folder under each participants name and session date. Only two participants are included here, each with one recording session. </div> 
 <div> If you would like to run the analysis script, please first install the dependancies and then run Analysis.py. </div> 
