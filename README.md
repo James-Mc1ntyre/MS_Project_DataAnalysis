@@ -7,7 +7,7 @@
 Participants were asked to comlete a VR task which involves visuo-spatial memory. They are asked to remember the orientation of an object ('Stimulus object') which appears briefly in front of them. Then, a rotated version of the same object appears ('Rotation object') and they are tasked with rotating the object to match the original orientation usign the VR controller. See the description below.
 
 <div align="center">
-<img src="task_description.jpg" alt="HopefullNet">
+<img src="task_description.jpg" alt="description">
 </div>
 
 <h2 align="center" > Usage </h2>
